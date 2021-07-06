@@ -29,7 +29,7 @@ DEBUG = False
 ALLOWED_HOSTS = [
     '*',
     '0.0.0.0',
-    ' https://www.text--utility.herokuapp.com/',
+    'https://www.text--utility.herokuapp.com/',
     '127.0.0.1'
 ]
 
